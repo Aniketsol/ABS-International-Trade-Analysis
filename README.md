@@ -1,5 +1,3 @@
-To create a professional and comprehensive README.md for your GitHub repository based on your Australian International Trade report, you can use the following template:
-
 Visual Analytics: Australian International Trade (1988–2023)
 Project Overview
 This project presents a visual analysis of the Australian International Trade Dataset provided by the Australian Bureau of Statistics (ABS). Covering data from 1988 to 2023, the analysis focuses on identifying trade patterns, dependencies, and economic trends, with a specific emphasis on the Machinery and Transport Equipment sector.
