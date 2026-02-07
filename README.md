@@ -1,47 +1,33 @@
 📊 Visual Analytics: Australian International Trade (1988–2023)
-An analysis of trade patterns and dependencies to strengthen domestic manufacturing.
 
-🔍 Executive Summary
-This project analyzes 35 years of Australian Bureau of Statistics (ABS) data. By examining 10 main categories and 67 sub-categories, the study uncovers Australia's significant reliance on international imports, particularly within the Machinery and Transport Equipment sector.
+An in-depth analysis of Australia’s international trade patterns and machinery import dependencies using ABS data.
 
-💡 Key Insights & Findings
+📌 Project Overview
 
-Heavy Import Dependency: Australia shows a critical reliance on foreign markets for infrastructure and automotive needs.
+This project explores the Australian International Trade Dataset from the Australian Bureau of Statistics (ABS), covering over three decades of import and export operations. The focus is on the Machinery and Transport Equipment sector to identify economic vulnerabilities and opportunities for growth.
 
+🔍 Key Findings
 
-Primary Drivers: Road Vehicles (Subcategory 78) and Electrical Machinery (Subcategory 77) are the highest-demand sectors.
+Import Dependency: Australia relies heavily on international markets for infrastructure and automotive needs.
 
+High-Demand Sectors: The critical subcategories are Road Vehicles (78) and Electrical Machinery (77).
 
-Trade Imbalance: Imports consistently outpace exports in these categories, reflecting a gap in local manufacturing capacity.
+Trade Imbalance: Imports consistently exceed exports in machinery, reflecting limited local manufacturing capacity.
 
+Economic Impact: Trade volume fluctuations reflect events such as the 2008 Global Financial Crisis and the COVID-19 Pandemic, followed by a sharp post-pandemic recovery.
 
-Economic Impact: The data highlights sharp fluctuations and recoveries surrounding the 2008 Global Financial Crisis and the COVID-19 Pandemic.
+🛠️ Tools & Methodology
 
-🛠 Tools & Methodology
+Software: Tableau Desktop (Dashboards & Narrative Storyboarding)
 
-Data Source: Australian Bureau of Statistics (ABS).
+Data Source: Australian Bureau of Statistics (ABS)
 
-
-Software: Tableau Desktop (used for Dashboards and Narrative Storyboards).
-
-
-Analysis Focus: Deep-dive into the "Machinery and Transport Equipment" sector.
-
-📈 Visualizations
-
-Note to User: To make this look good, take screenshots of your Tableau Storyboard (Page 13) and Dashboards (Page 6) from your report, upload them to GitHub, and link them below.
-
-Example: Overview of the 10 main trade categories analyzed in the study.
+Scope: 10 main categories and 67 detailed sub-categories
 
 🚀 Strategic Recommendations
 
-Invest in Domestic Manufacturing: Develop local production capabilities for high-demand subcategories like road vehicles and electrical machinery.
+Domestic Investment: Develop local production capabilities for high-demand machinery and road vehicles to reduce foreign reliance.
 
-
-Policy Support: Implement trade protections or incentives to foster partnerships with international manufacturers.
-
+Policy Support: Encourage local manufacturing through trade protections, incentives, or international partnerships.
 
 Export Strategy: Strengthen specialized machinery exports to move toward a more balanced, export-driven economic model.
-
-
-Author: Aniket Solanki
