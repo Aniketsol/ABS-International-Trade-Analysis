@@ -1,55 +1,31 @@
-# 📊 Australian International Trade Analytics (1988–2023)
-
-## Project Overview
-This project demonstrates an **end-to-end analysis of Australia’s international trade** using **`ABS` data**. It covers trade patterns over three decades, focusing on the **`Machinery and Transport Equipment` sector**, and identifies **import dependencies, high-demand subcategories, and trade imbalances**.
-
-The project showcases practical skills in **data analysis, visualization, and insights generation**, making it ideal for **`Data Analyst` or `Business Intelligence` roles**.
+# 📊 Visual Analytics: Australian International Trade (1988–2023)
+**An in-depth analysis of trade patterns and machinery import dependencies using ABS data.**
 
 ---
 
-## Analysis & Methodology
+## 📌 Project Overview
+[cite_start]This project presents a visual analysis of the **Australian International Trade Dataset** sourced from the Australian Bureau of Statistics (ABS)[cite: 1, 2]. [cite_start]Covering data from 1988 to 2023, the analysis investigates 10 main categories and 67 sub-categories of trade[cite: 2, 3]. [cite_start]The primary focus is on the **Machinery and Transport Equipment** sector to identify economic patterns and dependencies[cite: 3].
 
-**Data Collection (Bronze Layer – Raw Data):**
-- Gather historical import/export data from **`Australian Bureau of Statistics (ABS)`**.
-- Include **10 main categories and 67 sub-categories**.
-- Load raw data into **staging tables** for processing.
+## 🔍 Key Findings
+* [cite_start]**Import Dependency:** Analysis shows a significant reliance on imports for infrastructure and automotive needs[cite: 20].
+* [cite_start]**High-Demand Sectors:** The most critical subcategories identified are **Road Vehicles (78)** and **Electrical Machinery (77)**[cite: 3, 20].
+* [cite_start]**Trade Imbalance:** Imports consistently outpace exports in the machinery category, reflecting limited local manufacturing capacity[cite: 20].
+* [cite_start]**Economic Impact:** The data visualizes trade fluctuations caused by the **2008 Global Financial Crisis** and the **COVID-19 Pandemic**, followed by a sharp post-pandemic recovery[cite: 20].
 
-**Data Cleaning & Transformation (Silver Layer – Processed Data):**
-- Standardize **category codes** and merge related tables.
-- Handle **missing values, inconsistencies, and duplicates**.
-- Prepare data for **time-series analysis (`1988–2023`)**.
+## 🛠️ Tools & Methodology
+* [cite_start]**Software:** Tableau Desktop used for creating interactive Dashboards and a Narrative Storyboard[cite: 2, 19].
+* [cite_start]**Data Source:** Australian Bureau of Statistics (ABS)[cite: 1, 3].
+* [cite_start]**Metrics:** Trade prices recorded in Australian dollars to track trends over time[cite: 3].
 
-**Analytics & Visualization (Gold Layer – Insights-Ready):**
-- Create **`Tableau dashboards`** for **trend analysis, sector comparison, and trade volume visualization**.
-- Highlight critical subcategories: **`Road Vehicles (78)`** and **`Electrical Machinery (77)`**.
-- Analyze trade fluctuations during **`2008 Global Financial Crisis (GFC)`** and **`COVID-19 pandemic`**, followed by **post-pandemic recovery**.
+## 🚀 Strategic Recommendations
+* [cite_start]**Invest in Domestic Manufacturing:** Develop local production capabilities for high-demand goods like road vehicles and electrical machinery[cite: 20].
+* [cite_start]**Policy Support:** Encourage local manufacturing through policy incentives, trade protections, or international partnerships[cite: 20].
+* [cite_start]**Enhance Export Capacity:** Strengthen export activities in machinery subcategories to shift Australia toward a more balanced, export-driven model[cite: 20].
 
-**Insights Extraction & Recommendations:**
-- Identify **key import dependencies**.
-- Quantify **trade imbalances** and their **economic impact**.
-- Recommend strategies for **domestic investment, policy support, and export optimization**.
-
----
-
-## Key Findings
-
-- **Import Dependency:** Heavy reliance on international markets for **`infrastructure`** and **`automotive needs`**.
-- **High-Demand Sectors:** **`Road Vehicles`** and **`Electrical Machinery`** are the most critical subcategories.
-- **Trade Imbalance:** Imports consistently exceed exports in machinery, reflecting **limited local manufacturing capacity**.
-- **Economic Impact:** Trade volumes fluctuate during global crises, with **sharp post-pandemic recovery** observed.
+## 📂 Repository Structure
+* [cite_start]`/Visualizations` - Screenshots of the Tableau Storyboard and Dashboards.
+* [cite_start]`Trade.pdf` - The full analytical report.
+* `README.md` - Project documentation.
 
 ---
-
-## Strategic Recommendations
-
-- **Domestic Investment:** Develop **local production capabilities** for **high-demand machinery** and **vehicles** to reduce foreign reliance.
-- **Policy Support:** Promote **local manufacturing** through **incentives, trade protections, or international partnerships**.
-- **Export Strategy:** Strengthen **specialized machinery exports** to move toward a **balanced, export-driven economy**.
-
----
-
-## Tools & Technologies
-
-- **Software:** **`Tableau Desktop`** (**Dashboards & Narrative Storyboarding**)
-- **Data Source:** **`Australian Bureau of Statistics (ABS)`**
-- **Analysis Type:** **Time-series trends, sector comparison, trade imbalance evaluation**
+[cite_start]**Author:** Aniket Solanki [cite: 1]
