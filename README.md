@@ -1,47 +1,47 @@
-Visual Analytics: Australian International Trade (1988–2023)
-Project Overview
-This project presents a visual analysis of the Australian International Trade Dataset provided by the Australian Bureau of Statistics (ABS). Covering data from 1988 to 2023, the analysis focuses on identifying trade patterns, dependencies, and economic trends, with a specific emphasis on the Machinery and Transport Equipment sector.
+📊 Visual Analytics: Australian International Trade (1988–2023)
+An analysis of trade patterns and dependencies to strengthen domestic manufacturing.
 
-Key Objectives
-Analyze trade prices in Australian dollars across 10 main categories and 67 sub-categories.
+🔍 Executive Summary
+This project analyzes 35 years of Australian Bureau of Statistics (ABS) data. By examining 10 main categories and 67 sub-categories, the study uncovers Australia's significant reliance on international imports, particularly within the Machinery and Transport Equipment sector.
 
-Identify significant import dependencies that impact domestic manufacturing.
+💡 Key Insights & Findings
 
-Visualize the impact of major global economic events on trade volumes.
-
-Major Findings
-
-Import Dependency: The analysis reveals a heavy reliance on foreign markets, particularly for essential machinery and automotive goods.
+Heavy Import Dependency: Australia shows a critical reliance on foreign markets for infrastructure and automotive needs.
 
 
-High-Demand Sectors: Road Vehicles (Subcategory 78) and Electrical Machinery (Subcategory 77) are identified as the most significant areas of import demand.
+Primary Drivers: Road Vehicles (Subcategory 78) and Electrical Machinery (Subcategory 77) are the highest-demand sectors.
 
 
-Trade Imbalance: Imports consistently outpace exports in the machinery sector, highlighting a gap in local manufacturing capacity.
+Trade Imbalance: Imports consistently outpace exports in these categories, reflecting a gap in local manufacturing capacity.
 
 
-Economic Resilience: The data visualizes the sharp trade fluctuations caused by the 2008 Global Financial Crisis and the COVID-19 pandemic, followed by rapid recovery in specific sectors.
+Economic Impact: The data highlights sharp fluctuations and recoveries surrounding the 2008 Global Financial Crisis and the COVID-19 Pandemic.
 
-Recommendations
-
-Domestic Investment: Expand local production capabilities for high-demand goods like electrical machinery to reduce foreign dependency.
-
-
-Policy Support: Implement incentives or trade protections to foster partnerships with international manufacturers.
-
-
-Export Strategy: Shift the trade profile by strengthening export activities in specialized machinery subcategories.
-
-Methodology & Tools
+🛠 Tools & Methodology
 
 Data Source: Australian Bureau of Statistics (ABS).
 
 
-Visualization Tool: Tableau (including Dashboards and a Narrative Storyboard).
+Software: Tableau Desktop (used for Dashboards and Narrative Storyboards).
 
 
-Focus Area: Machinery and Transport Equipment.
+Analysis Focus: Deep-dive into the "Machinery and Transport Equipment" sector.
 
-Author
+📈 Visualizations
 
-Aniket Solanki
+Note to User: To make this look good, take screenshots of your Tableau Storyboard (Page 13) and Dashboards (Page 6) from your report, upload them to GitHub, and link them below.
+
+Example: Overview of the 10 main trade categories analyzed in the study.
+
+🚀 Strategic Recommendations
+
+Invest in Domestic Manufacturing: Develop local production capabilities for high-demand subcategories like road vehicles and electrical machinery.
+
+
+Policy Support: Implement trade protections or incentives to foster partnerships with international manufacturers.
+
+
+Export Strategy: Strengthen specialized machinery exports to move toward a more balanced, export-driven economic model.
+
+
+Author: Aniket Solanki
