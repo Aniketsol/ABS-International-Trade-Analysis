@@ -1,33 +1,64 @@
-📊 Visual Analytics: Australian International Trade (1988–2023)
+📊 Australian International Trade Analytics (1988–2023)
+Project Overview
 
-An in-depth analysis of Australia’s international trade patterns and machinery import dependencies using ABS data.
+This project explores Australia’s international trade patterns over three decades using ABS data, focusing on the Machinery and Transport Equipment sector. The analysis identifies import dependencies, high-demand subcategories, and trade imbalances, providing insights into economic vulnerabilities and growth opportunities.
 
-📌 Project Overview
+The project demonstrates practical skills in data analysis, visualization, and strategic insight, making it ideal for Data Analyst or Business Intelligence roles.
 
-This project explores the Australian International Trade Dataset from the Australian Bureau of Statistics (ABS), covering over three decades of import and export operations. The focus is on the Machinery and Transport Equipment sector to identify economic vulnerabilities and opportunities for growth.
+Analysis & Methodology
 
-🔍 Key Findings
+Data Collection:
 
-Import Dependency: Australia relies heavily on international markets for infrastructure and automotive needs.
+Source historical import/export data from the Australian Bureau of Statistics (ABS).
 
-High-Demand Sectors: The critical subcategories are Road Vehicles (78) and Electrical Machinery (77).
+Cover 10 main categories and 67 sub-categories.
+
+Data Processing & Cleaning:
+
+Organize data for time-series analysis (1988–2023).
+
+Standardize category codes and merge related tables.
+
+Handle missing values and inconsistencies.
+
+Visualization & Analytics:
+
+Build Tableau dashboards for trend analysis, sector comparison, and trade volume visualization.
+
+Highlight critical subcategories: Road Vehicles (78) and Electrical Machinery (77).
+
+Examine trade fluctuations during the 2008 Global Financial Crisis and COVID-19 pandemic, followed by post-pandemic recovery.
+
+Insights Extraction:
+
+Identify key import dependencies.
+
+Quantify trade imbalances and their economic implications.
+
+Provide actionable recommendations for investment, policy, and export strategies.
+
+Key Findings
+
+Import Dependency: Heavy reliance on international markets for infrastructure and automotive needs.
+
+High-Demand Sectors: Road Vehicles and Electrical Machinery are the most critical subcategories.
 
 Trade Imbalance: Imports consistently exceed exports in machinery, reflecting limited local manufacturing capacity.
 
-Economic Impact: Trade volume fluctuations reflect events such as the 2008 Global Financial Crisis and the COVID-19 Pandemic, followed by a sharp post-pandemic recovery.
+Economic Impact: Trade volumes fluctuate during global crises, with sharp post-pandemic recovery observed.
 
-🛠️ Tools & Methodology
+Strategic Recommendations
+
+Domestic Investment: Develop local production capabilities for high-demand machinery and vehicles to reduce foreign reliance.
+
+Policy Support: Promote local manufacturing through incentives, trade protections, or international partnerships.
+
+Export Strategy: Strengthen specialized machinery exports to shift toward a balanced, export-driven economy.
+
+Tools & Technologies
 
 Software: Tableau Desktop (Dashboards & Narrative Storyboarding)
 
 Data Source: Australian Bureau of Statistics (ABS)
 
-Scope: 10 main categories and 67 detailed sub-categories
-
-🚀 Strategic Recommendations
-
-Domestic Investment: Develop local production capabilities for high-demand machinery and road vehicles to reduce foreign reliance.
-
-Policy Support: Encourage local manufacturing through trade protections, incentives, or international partnerships.
-
-Export Strategy: Strengthen specialized machinery exports to move toward a more balanced, export-driven economic model.
+Analysis Type: Time-series trends, sector comparison, trade imbalance evaluation
